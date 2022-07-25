@@ -1,0 +1,14 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "Some little challenges to learn TypeScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Paul Treanor",
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
